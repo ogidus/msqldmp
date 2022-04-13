@@ -22,3 +22,4 @@ for db in str_databases:
 	decrypt(db)
 
 os.system("rm -f enc/*")
+print("Done\n")
